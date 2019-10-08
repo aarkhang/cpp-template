@@ -1,7 +1,7 @@
 # C++ Project Template
 
 [![Build
-Status](https://travis-ci.org/joshpeterson/cpp-template.svg?branch=master)](https://travis-ci.org/joshpeterson/cpp-template)
+Status](https://travis-ci.com/aarkhang/cpp-template.svg?branch=master)](https://travis-ci.com/aarkhang/cpp-template)
 
 This is a template project for C++. It uses [CMake](https://cmake.org/) to build
 and [Catch](https://github.com/catchorg/Catch2) for unit tests. It is integrated
